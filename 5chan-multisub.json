@@ -6,11 +6,13 @@
   "subplebbits": [
     {
       "title": "/pol/ - Politically Incorrect",
-      "address": "politically-incorrect.eth"
+      "address": "politically-incorrect.eth",
+      "nsfw": true
     },
     {
       "title": "/biz/ - Business & Finance",
-      "address": "business-and-finance.eth"
+      "address": "business-and-finance.eth",
+      "nsfw": false
     }
   ]
 }
